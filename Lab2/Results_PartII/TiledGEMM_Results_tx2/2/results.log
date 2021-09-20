@@ -1,0 +1,90 @@
+
+Test input 0
+The dimensions of A are 64 x 64
+The dimensions of B are 64 x 64
+Solution is correct
+
+real	0m0.240s
+user	0m0.096s
+sys	0m0.108s
+
+Test input 1
+The dimensions of A are 128 x 64
+The dimensions of B are 64 x 128
+Solution is correct
+
+real	0m0.171s
+user	0m0.040s
+sys	0m0.080s
+
+Test input 2
+The dimensions of A are 100 x 128
+The dimensions of B are 128 x 56
+Solution is correct
+
+real	0m0.148s
+user	0m0.020s
+sys	0m0.096s
+
+Test input 3
+The dimensions of A are 128 x 64
+The dimensions of B are 64 x 128
+Solution is correct
+
+real	0m0.140s
+user	0m0.036s
+sys	0m0.080s
+
+Test input 4
+The dimensions of A are 32 x 128
+The dimensions of B are 128 x 32
+Solution is correct
+
+real	0m0.135s
+user	0m0.028s
+sys	0m0.080s
+
+Test input 5
+The dimensions of A are 200 x 100
+The dimensions of B are 100 x 256
+Solution is correct
+
+real	0m0.194s
+user	0m0.088s
+sys	0m0.076s
+
+Test input 6
+The dimensions of A are 256 x 256
+The dimensions of B are 256 x 256
+Solution is correct
+
+real	0m0.224s
+user	0m0.124s
+sys	0m0.072s
+
+Test input 7
+The dimensions of A are 256 x 300
+The dimensions of B are 300 x 256
+Solution is correct
+
+real	0m0.240s
+user	0m0.128s
+sys	0m0.084s
+
+Test input 8
+The dimensions of A are 64 x 128
+The dimensions of B are 128 x 64
+Solution is correct
+
+real	0m0.142s
+user	0m0.048s
+sys	0m0.068s
+
+Test input 9
+The dimensions of A are 256 x 256
+The dimensions of B are 256 x 257
+Solution is correct
+
+real	0m0.254s
+user	0m0.132s
+sys	0m0.080s
